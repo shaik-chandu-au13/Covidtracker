@@ -1,0 +1,48 @@
+#output{
+    background-color: blanchedalmond;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.TCNF{
+    color: red;
+    padding:10px;
+}
+.TDT{
+    color: rgb(82, 31, 31);
+    padding:10px;
+}
+.TRC{
+    color:green;
+    padding:10px;
+}
+.NCNF{
+    color: rgb(253, 97, 7);
+    padding:10px;
+}
+.NRC{
+    color:blue;
+    padding:10px;
+}
+.date{
+    color:rgb(45, 2, 73);
+    padding:10px;
+}
+body{
+    background-color:#F4ADB2;
+
+}
+.card{
+    background-color:#ffcad4;
+}
+.bodycontent{
+    padding:10px;
+}
+
+#selectCountry{
+    background-color:#ffe5d9;
+}
+.text {
+    text-align: center;
+    
+  }
